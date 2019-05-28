@@ -1,4 +1,3 @@
-//<![CDATA[
 function loophalaman(a) {
      var e="";
      nomerkiri=parseInt(numshowpage/2),
@@ -70,4 +69,3 @@ jenis,
 nomerhal,
 lblname1;
 halamanblogger();
-//]]>
